@@ -7,35 +7,33 @@ sites:
     url: https://aexelar.com
   - name: Apex Food Service
     url: https://apexfoodservice.com
-  - name: Apex Food Service
-    url: https://apexfoodservice.com
   - name: Carolina Heart Center
     url: https://carolinaheartcenter.com
   - name: Control Infotech
     url: https://control-infotech.com
-  - name: Drpeds
+  - name: Durant Rd Pediatrics
     url: https://drpeds.com
   - name: Dynpro
     url: https://dynpro.in
   - name: Dynpro India
     url: https://dynproindia.com
-  - name: Forum Kanors Emr
+  - name: KANORS EMR Forum
     url: https://forum.kanors-emr.org
   - name: Fresh Indian Market
     url: https://freshindianmarket.com
-  - name: Harborhat
+  - name: Harbor Hat
     url: https://harborhat.com
-  - name: Helpdesk Kanors Emr
+  - name: KANORS EMR Helpdesk
     url: https://helpdesk.kanors-emr.org
   - name: Institrve
     url: https://institrve.com
   - name: Kanlo Net
     url: https://kanlo.net
-  - name: Kanors Emr
+  - name: KANORS EMR
     url: https://kanors-emr.org
   - name: Khanna Sons Jewelers
     url: https://khannasonsjewelers.com
-  - name: Licensing kanors Emr
+  - name: KANORS EMR Licensing
     url: https://licensing.kanors-emr.org
   - name: Lj Neurology
     url: https://ljneurology.com
@@ -43,31 +41,29 @@ sites:
     url: https://marizyme.com
   - name: My Medical Idea
     url: https://mymedicalidea.com
-  - name: Nazaranc
+  - name: Nazara NC
     url: https://nazaranc.com
   - name: Patty4 Morrisville
     url: https://patty4morrisville.com
-  - name: Peoples Medicalcare
+  - name: Peoples Medical Care
     url: https://peoplesmedicalcare.org
-  - name: Peoples Medicalcare
-    url: https://peoplesmedicalcare.org
-  - name: portal Shahand Associatesfp
+  - name: Shah and Associated FP Portal
     url: https://portal.shahandassociatesfp.com
-  - name: Serge Tech mechanical
+  - name: Serge Tech Mechanical
     url: https://sergetechmechanical.com
-  - name: Shahand Associatesfp
+  - name: Shah and Associated FP
     url: https://shahandassociatesfp.com
   - name: Shivji Photography
     url: https://shivji.photography
-  - name: Sizzlinstirfry
+  - name: Sizzlin Stir Fry
     url: https://sizzlinstirfry.com
   - name: Sleep Clinic Of Ohio
     url: https://sleepclinicofohio.com
-  - name: Staging Peoples Medical care
+  - name: Peoples Medical Care Staging
     url: https://staging.peoplesmedicalcare.org
-  - name: Stone Erp
+  - name: Stone ERP
     url: https://stone-erp.com
-  - name: Support Kanors Emr
+  - name: KANORS EMR Support
     url: https://support.kanors-emr.org
   - name: Teampro India
     url: https://Teamproindia.com
@@ -77,9 +73,9 @@ sites:
     url: https://tntdiscount.city
   - name: Veear Projects
     url: https://veearprojects.com
-  - name: vital Manage
+  - name: Vital Manage
     url: https://vitalmanage.com
-  - name: Wfendo
+  - name: Wake Forest Endoscopy
     url: https://wfendo.com
 
     
