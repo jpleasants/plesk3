@@ -436,19 +436,19 @@
     "url": "https://shahandassociatesfp.com",
     "icon": "https://icons.duckduckgo.com/ip3/shahandassociatesfp.com.ico",
     "slug": "shah-and-associated-fp",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 10831,
-    "timeDay": 10831,
-    "timeWeek": 10831,
-    "timeMonth": 10831,
-    "timeYear": 10831,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 12997,
+    "timeDay": 12997,
+    "timeWeek": 12997,
+    "timeMonth": 12997,
+    "timeYear": 12997,
     "dailyMinutesDown": {
-      "2023-08-02": 2
+      "2023-08-02": 7
     }
   },
   {
@@ -612,7 +612,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 318
+      "2023-08-02": 325
     }
   },
   {
