@@ -436,18 +436,20 @@
     "url": "https://shahandassociatesfp.com",
     "icon": "https://icons.duckduckgo.com/ip3/shahandassociatesfp.com.ico",
     "slug": "shah-and-associated-fp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 8278,
     "timeDay": 8278,
     "timeWeek": 8278,
     "timeMonth": 8278,
     "timeYear": 8278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-02": 2
+    }
   },
   {
     "name": "Shivji Photography",
@@ -610,7 +612,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 174
+      "2023-08-02": 277
     }
   },
   {
