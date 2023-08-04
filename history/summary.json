@@ -383,18 +383,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/patty4morrisville.com.ico",
     "slug": "patty4-morrisville",
     "status": "down",
-    "uptime": "88.27%",
-    "uptimeDay": "75.99%",
-    "uptimeWeek": "88.27%",
-    "uptimeMonth": "88.27%",
-    "uptimeYear": "88.27%",
+    "uptime": "87.88%",
+    "uptimeDay": "75.08%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "87.88%",
+    "uptimeYear": "87.88%",
     "time": 927,
     "timeDay": 2125,
     "timeWeek": 927,
     "timeMonth": 927,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2023-08-04": 346
+      "2023-08-04": 359
     }
   },
   {
@@ -438,19 +438,19 @@
     "url": "https://shahandassociatesfp.com",
     "icon": "https://icons.duckduckgo.com/ip3/shahandassociatesfp.com.ico",
     "slug": "shah-and-associated-fp",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 10870,
-    "timeDay": 8211,
-    "timeWeek": 10870,
-    "timeMonth": 10870,
-    "timeYear": 10870,
+    "status": "up",
+    "uptime": "98.48%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
+    "time": 10407,
+    "timeDay": 7841,
+    "timeWeek": 10407,
+    "timeMonth": 10407,
+    "timeYear": 10407,
     "dailyMinutesDown": {
-      "2023-08-04": 32
+      "2023-08-04": 45
     }
   },
   {
