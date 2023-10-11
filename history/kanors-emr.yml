@@ -1,7 +1,7 @@
 url: https://kanors-emr.org
-status: up
-code: 200
-responseTime: 2005
-lastUpdated: 2023-10-10T23:10:14.273Z
+status: down
+code: 503
+responseTime: 504
+lastUpdated: 2023-10-11T11:48:37.683Z
 startTime: 2023-08-02T17:24:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
