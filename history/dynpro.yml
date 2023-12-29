@@ -1,7 +1,7 @@
 url: https://dynpro.in
-status: up
-code: 200
-responseTime: 12632
-lastUpdated: 2023-12-29T12:24:56.605Z
+status: down
+code: 503
+responseTime: 597
+lastUpdated: 2023-12-29T13:26:37.226Z
 startTime: 2023-08-02T17:24:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
