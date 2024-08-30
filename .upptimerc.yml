@@ -7,76 +7,256 @@ sites:
   - name: Plesk 3
     url: https://plesk3.samitsolutions.com
     port: 8443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Aexelar
     url: https://aexelar.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Apex Food Service
     url: https://apexfoodservice.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Carolina Heart Center
     url: https://carolinaheartcenter.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Control Infotech
     url: https://control-infotech.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Durant Rd Pediatrics
     url: https://drpeds.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Dynpro
     url: https://dynpro.in
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Dynpro India
     url: https://dynproindia.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: KANORS EMR Forum
     url: https://forum.kanors-emr.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Fresh Indian Market
     url: https://freshindianmarket.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Harbor Hat
     url: https://harborhat.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: KANORS EMR Helpdesk
     url: https://helpdesk.kanors-emr.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Institrve
     url: https://institrve.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Kanlo Net
     url: https://kanlo.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: KANORS EMR
     url: https://kanors-emr.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Khanna Sons Jewelers
     url: https://khannasonsjewelers.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: KANORS EMR Licensing
     url: https://licensing.kanors-emr.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Lj Neurology
     url: https://ljneurology.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Marizyme
     url: https://marizyme.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: My Medical Idea
     url: https://mymedicalidea.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Nazara NC
     url: https://nazaranc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Patty4 Morrisville
     url: https://patty4morrisville.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Shah and Associated FP Portal
     url: https://portal.shahandassociatesfp.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Serge Tech Mechanical
     url: https://sergetechmechanical.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Shah and Associated FP
     url: https://shahandassociatesfp.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Shivji Photography
     url: https://shivji.photography
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Sizzlin Stir Fry
     url: https://sizzlinstirfry.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Sleep Clinic Of Ohio
     url: https://sleepclinicofohio.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Peoples Medical Care Staging
     url: https://staging.peoplesmedicalcare.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Stone ERP
     url: https://stone-erp.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: KANORS EMR Support
     url: https://support.kanors-emr.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Teampro India
     url: https://Teamproindia.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Thought Leader Select
     url: https://thoughtleaderselect.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Veear Projects
     url: https://veearprojects.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Vital Manage
     url: https://vitalmanage.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
   - name: Wake Forest Endoscopy
     url: https://wfendo.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
 
     
 status-website:
