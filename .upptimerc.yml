@@ -215,8 +215,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: 
-    url: https://
+  - name: wfendo.com
+    url: https://wfendo.com
     expectedStatusCodes:
       - 200
       - 201
@@ -243,13 +243,7 @@ sites:
       - 201
       - 301
       - 403
-  - name: Wake Forest Endoscopy
-    url: https://wfendo.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
+ 
 
     
 status-website:
