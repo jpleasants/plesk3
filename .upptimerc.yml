@@ -117,14 +117,7 @@ sites:
       - 201
       - 301
       - 403
-  - name: Lj Neurology
-    url: https://ljneurology.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Marizyme
+    - name: Marizyme
     url: https://marizyme.com
     expectedStatusCodes:
       - 200
