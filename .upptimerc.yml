@@ -19,8 +19,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: Bharat Grocery
-    url: https://bharat-grocery.com
+  - name: shivji photography
+    url: https://shivji.photography
     expectedStatusCodes:
       - 200
       - 201
@@ -33,43 +33,43 @@ sites:
       - 201
       - 301
       - 403
-  - name: Control Infotech
-    url: https://control-infotech.com
+  - name: wfendo
+    url: https://wfendo.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Durant Rd Pediatrics
-    url: https://drpeds.com
+  - name: veearprojects
+    url: https://veearprojects.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Coalition For Carolina Foundation
-    url: https://coalitionforcarolinafoundation.org
+  - name: stone-erp
+    url: https://stone-erp.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Crowdsourcing Sustainability
-    url: https://crowdsourcingsustainability.org
+  - name: nazaranc
+    url: https://nazaranc.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: KANORS EMR Forum
-    url: https://forum.kanors-emr.org
+  - name: sergetechmechanical
+    url: https://sergetechmechanical.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Fresh Indian Market
-    url: https://freshindianmarket.com
+  - name: vitalmanage
+    url: https://vitalmanage.com
     expectedStatusCodes:
       - 200
       - 201
@@ -82,20 +82,6 @@ sites:
       - 201
       - 301
       - 403
-  - name: KANORS EMR Helpdesk
-    url: https://helpdesk.kanors-emr.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Institrve
-    url: https://institrve.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
   - name: KANORS EMR
     url: https://kanors-emr.org
     expectedStatusCodes:
@@ -103,8 +89,22 @@ sites:
       - 201
       - 301
       - 403
-  - name: Khanna Sons Jewelers
-    url: https://khannasonsjewelers.com
+  - name: mymedicalidea
+    url: https://mymedicalidea.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: KANORS EMR Helpdesk
+    url: https://helpdesk.kanors-emr.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: drpeds
+    url: https://drpeds.com
     expectedStatusCodes:
       - 200
       - 201
@@ -117,15 +117,15 @@ sites:
       - 201
       - 301
       - 403
-  - name: Marizyme
-    url: https://marizyme.com
+  - name: institrve
+    url: https://institrve.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: My Medical Idea
-    url: https://mymedicalidea.com
+  - name: marizyme
+    url: https://marizyme.com
     expectedStatusCodes:
       - 200
       - 201
@@ -138,8 +138,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: peppernc
-    url: https://peppernc.com
+  - name: khannasonsjewelers
+    url: https://khannasonsjewelers.com
     expectedStatusCodes:
       - 200
       - 201
@@ -152,8 +152,8 @@ sites:
       - 201
       - 301
       - 403
-  - name: Serge Tech Mechanical
-    url: https://sergetechmechanical.com
+  - name: harborhat
+    url: https://harborhat.com
     expectedStatusCodes:
       - 200
       - 201
@@ -166,36 +166,36 @@ sites:
       - 201
       - 301
       - 403
-  - name: Shivji Photography
-    url: https://shivji.photography
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Pickles And Play
-    url: https://picklesandplay.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Sleep Clinic Of Ohio
-    url: https://sleepclinicofohio.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Thepuppie
+  - name: thepuppie
     url: https://thepuppie.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Stone ERP
-    url: https://stone-erp.com
+  - name: peppernc
+    url: https://peppernc.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: crowdsourcingsustainability
+    url: https://crowdsourcingsustainability.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: zaykauncchapelhill
+    url: https://zaykauncchapelhill.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: bharat grocery
+    url: https://bharat-grocery.com
     expectedStatusCodes:
       - 200
       - 201
@@ -208,29 +208,29 @@ sites:
       - 201
       - 301
       - 403
-  - name: wfendo.com
-    url: https://wfendo.com
+  - name: coalitionforcarolinafoundation
+    url: https://coalitionforcarolinafoundation.org
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Zaykaunc Chapelhill
-    url: https://zaykauncchapelhill.com
+  - name: tekrek
+    url: https://tekrek.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Veear Projects
-    url: https://veearprojects.com
+  - name: directedfacilitysolutions
+    url: https://directedfacilitysolutions.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Vital Manage
-    url: https://vitalmanage.com
+  - name: veearhealth
+    url: https://veearhealth.com
     expectedStatusCodes:
       - 200
       - 201
