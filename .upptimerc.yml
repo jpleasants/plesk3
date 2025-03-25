@@ -152,13 +152,6 @@ sites:
       - 201
       - 301
       - 403
-  - name: harborhat
-    url: https://harborhat.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
   - name: Shah and Associated FP
     url: https://shahandassociatesfp.com
     expectedStatusCodes:
