@@ -87,7 +87,7 @@ sites:
       - 403
   - name: Harbor Hat
     url: https://harborhat.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -135,7 +135,7 @@ sites:
       - 403
   - name: institrve
     url: https://institrve.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -183,7 +183,7 @@ sites:
       - 403
   - name: thepuppie
     url: https://thepuppie.com
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
@@ -231,7 +231,7 @@ sites:
       - 403
   - name: coalitionforcarolinafoundation
     url: https://coalitionforcarolinafoundation.org
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
