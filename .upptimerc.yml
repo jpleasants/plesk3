@@ -23,7 +23,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-   - name: Carolina Heart Center
+  - name: Carolina Heart Center
     url: https://carolinaheartcenter.com
     maxResponseTime: 10000
     expectedStatusCodes:
