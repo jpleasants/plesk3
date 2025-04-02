@@ -35,7 +35,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-   - name: veearprojects
+  - name: veearprojects
     url: https://veearprojects.com
     maxResponseTime: 10000
     expectedStatusCodes:
