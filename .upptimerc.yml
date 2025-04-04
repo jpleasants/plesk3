@@ -1,7 +1,7 @@
 # Change these first
 owner: jpleasants # Your GitHub organization or username, where this repository lives
 repo: plesk3 # The name of this repository
-delay: 2000 # 2 seconds
+delay: 500 # 2 seconds
 
 sites:
   - name: Plesk 3
@@ -11,225 +11,192 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Aexelar
     url: https://aexelar.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: shivji photography
     url: https://shivji.photography
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Carolina Heart Center
     url: https://carolinaheartcenter.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: wfendo
     url: https://wfendo.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: veearprojects
     url: https://veearprojects.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: stone-erp
     url: https://stone-erp.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: nazaranc
     url: https://nazaranc.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: sergetechmechanical
     url: https://sergetechmechanical.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: vitalmanage
     url: https://vitalmanage.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Harbor Hat
     url: https://harborhat.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: KANORS EMR
     url: https://kanors-emr.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: mymedicalidea
     url: https://mymedicalidea.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: KANORS EMR Helpdesk
     url: https://helpdesk.kanors-emr.org
     maxResponseTime: 15000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: drpeds
     url: https://drpeds.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: KANORS EMR Licensing
     url: https://licensing.kanors-emr.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: institrve
     url: https://institrve.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: marizyme
     url: https://marizyme.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Nazara NC
     url: https://nazaranc.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: khannasonsjewelers
     url: https://khannasonsjewelers.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Shah and Associated FP Portal
     url: https://portal.shahandassociatesfp.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Shah and Associated FP
     url: https://shahandassociatesfp.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: thepuppie
     url: https://thepuppie.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: peppernc
     url: https://peppernc.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: crowdsourcingsustainability
     url: https://crowdsourcingsustainability.org
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: zaykauncchapelhill
     url: https://zaykauncchapelhill.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: bharat grocery
     url: https://bharat-grocery.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: KANORS EMR Support
     url: https://support.kanors-emr.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: coalitionforcarolinafoundation
     url: https://coalitionforcarolinafoundation.org
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: tekrek
     url: https://tekrek.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: directedfacilitysolutions
     url: https://directedfacilitysolutions.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: veearhealth
     url: https://veearhealth.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
-  
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
