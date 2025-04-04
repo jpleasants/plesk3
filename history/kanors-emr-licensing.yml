@@ -1,7 +1,7 @@
 url: https://licensing.kanors-emr.org
-status: up
-code: 200
-responseTime: 3738
-lastUpdated: 2025-04-04T13:04:20.580Z
+status: down
+code: 403
+responseTime: 241
+lastUpdated: 2025-04-04T15:43:14.834Z
 startTime: 2023-08-02T17:24:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
