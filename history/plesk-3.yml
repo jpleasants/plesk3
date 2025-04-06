@@ -1,7 +1,7 @@
 url: https://plesk3.samitsolutions.com
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2025-04-06T12:52:30.610Z
+status: down
+code: 403
+responseTime: 111
+lastUpdated: 2025-04-06T13:14:28.793Z
 startTime: 2023-08-02T17:24:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
