@@ -229,6 +229,20 @@ sites:
       - 200
       - 201
       - 403
+  - name: biryanimaxxraleigh
+    url: https://biryanimaxxraleigh.com
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: thegluxegroup
+    url: https://thegluxegroup.com
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
