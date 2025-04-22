@@ -17,14 +17,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: shivji photography
     url: https://shivji.photography
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 201
-      - 403
   - name: Carolina Heart Center
     url: https://carolinaheartcenter.com
     maxResponseTime: 10000
