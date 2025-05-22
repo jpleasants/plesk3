@@ -463,7 +463,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.56%",
-    "uptimeYear": "85.77%",
+    "uptimeYear": "85.78%",
     "time": 352,
     "timeDay": 310,
     "timeWeek": 406,
@@ -1097,19 +1097,19 @@
     "url": "https://thegluxegroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/thegluxegroup.com.ico",
     "slug": "thegluxegroup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 18,
-    "timeWeek": 114,
-    "timeMonth": 195,
-    "timeYear": 177,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 176,
+    "timeDay": 76,
+    "timeWeek": 117,
+    "timeMonth": 193,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-05-22": 1
+      "2025-05-22": 6
     }
   }
 ]
