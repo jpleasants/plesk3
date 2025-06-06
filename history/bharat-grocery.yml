@@ -1,7 +1,7 @@
 url: https://bharat-grocery.com
-status: up
+status: degraded
 code: 200
-responseTime: 249
-lastUpdated: 2025-06-05T23:17:04.461Z
+responseTime: 27346
+lastUpdated: 2025-06-06T05:01:10.826Z
 startTime: 2025-01-19T20:13:29.606Z
 generator: Upptime <https://github.com/upptime/upptime>
