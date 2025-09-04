@@ -1,7 +1,7 @@
 url: https://institrve.com
-status: up
+status: degraded
 code: 200
-responseTime: 292
-lastUpdated: 2025-09-04T23:13:33.660Z
+responseTime: 11453
+lastUpdated: 2025-09-04T23:59:28.919Z
 startTime: 2023-08-02T17:24:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
