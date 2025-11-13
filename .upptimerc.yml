@@ -166,13 +166,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: peppernc
-    url: https://peppernc.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
   - name: crowdsourcingsustainability
     url: https://crowdsourcingsustainability.org
     maxResponseTime: 5000
