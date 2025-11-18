@@ -1,7 +1,7 @@
 url: https://drpeds.com
-status: degraded
-code: 500
-responseTime: 11805
-lastUpdated: 2025-11-18T15:54:26.434Z
+status: up
+code: 403
+responseTime: 153
+lastUpdated: 2025-11-18T16:01:38.419Z
 startTime: 2025-03-19T14:22:55.811Z
 generator: Upptime <https://github.com/upptime/upptime>
